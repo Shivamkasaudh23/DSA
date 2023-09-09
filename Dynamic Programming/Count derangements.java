@@ -80,9 +80,6 @@ class Solution{
 //Space optimized tabulation
 
 
-
-//User function Template for Java
-
 class Solution{
     static long disarrange(int n){
         return solve(n);
